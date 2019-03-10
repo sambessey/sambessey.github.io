@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "The Vongole"
-  avatar           : "http://localhost:4000/assets/images/logo.png"
+  avatar           : "assets/images/logo.png"
   bio              : "Critical thinking in a time of Brexit spaghetti."
   location         : "Brixton, London"
   email            : "brexit@thevongole.com"
